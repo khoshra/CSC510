@@ -6,5 +6,3 @@ def isPrime(x=1):
         if(x%i==0): 
             return False
     return True
-
-print(isPrime(9)) 
